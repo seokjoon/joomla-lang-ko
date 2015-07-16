@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension type="package" version="3.4">
+<extension type="package" version="3.4" method="upgrade">
 	<name>Korean ko-KR Language Pack</name>
 	<packagename>ko-KR</packagename>
-	<version>3.4.1</version>
-	<creationDate>2015-03-10</creationDate>
+	<version>3.4.1.2</version>
+	<creationDate>2015-07-01</creationDate>
 	<author>Korean translation team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<url>http://joomla.ecfirm.net/</url>
