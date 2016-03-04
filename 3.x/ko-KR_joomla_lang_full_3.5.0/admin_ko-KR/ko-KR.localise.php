@@ -1,20 +1,22 @@
 <?php
 /**
- * @version		$Id: language.php 15628 2010-03-27 05:20:29Z infograf768 $
- * @copyright	Copyright (C) 2005 - 2015 Open Source Matters, Inc. All rights reserved.
- * @license		GNU General Public License version 2 or later; see LICENSE.txt
+ * @package Joomla.Language
+ * 
+ * @copyright Copyright (C) 2005 - 2015 2016 Open Source Matters, Inc. All rights reserved.
+ * @license GNU General Public License version 2 or later; see LICENSE.txt
  */
 
 defined('_JEXEC') or die;
 
 /**
- * en-GB localise class
+ * ko-KR localise class
  * @since 1.6
  */
 abstract class Ko_KRLocalise {
+	
 	/**
 	 * Returns the potential suffixes for a specific number of items
-	 *
+	 * 
 	 * @param   int $count  The number of items.
 	 * @return  array  An array of potential suffixes.
 	 * @since	1.6
@@ -31,6 +33,7 @@ abstract class Ko_KRLocalise {
 		}
 		return $return;
 	}
+	
 	/**
 	 * Returns the ignored search words
 	 *
@@ -38,12 +41,9 @@ abstract class Ko_KRLocalise {
 	 * @since	1.6
 	 */
 	public static function getIgnoredSearchWords() {
-		$search_ignore = array();
-		$search_ignore[] = "and";
-		$search_ignore[] = "in";
-		$search_ignore[] = "on";
-		return $search_ignore;
+		return array('and', 'in', 'on');		
 	}
+	
 	/**
 	 * Returns the lower length limit of search words
 	 *
@@ -53,6 +53,7 @@ abstract class Ko_KRLocalise {
 	public static function getLowerLimitSearchWord() {
 		return 3;
 	}
+	
 	/**
 	 * Returns the upper length limit of search words
 	 *
@@ -62,6 +63,7 @@ abstract class Ko_KRLocalise {
 	public static function getUpperLimitSearchWord() {
 		return 20;
 	}
+
 	/**
 	 * Returns the number of chars to display when searching
 	 *

@@ -207,6 +207,7 @@
 		<filename>ko-KR.plg_system_stats.ini</filename>		
 		<filename>ko-KR.plg_system_stats.sys.ini</filename>		
 		<filename>ko-KR.plg_system_updatenotification.ini</filename>		
+		<filename>ko-KR.plg_system_updatenotification.sys.ini</filename>		
 		<filename>ko-KR.plg_twofactorauth_totp.ini</filename>
 		<filename>ko-KR.plg_twofactorauth_totp.sys.ini</filename>
 		<filename>ko-KR.plg_twofactorauth_yubikey.ini</filename>
