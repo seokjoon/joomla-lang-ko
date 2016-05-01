@@ -2,7 +2,7 @@
 <extension version="3.5" client="administrator" type="language" method="upgrade">
 	<name>Korean(Republic of Korea)</name>
 	<tag>ko-KR</tag>
-	<version>3.5.1</version>
+	<version>3.5.1.1</version>
 	<creationDate>2016-04-11</creationDate>
 	<author>Korean Translation Team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
