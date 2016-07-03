@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <extension type="package" version="3.5" method="upgrade">
-	<name>Korean ko-KR Language Pack</name>
+	<name>Korean (ko-KR) Language Pack</name>
 	<packagename>ko-KR</packagename>
 	<version>3.6.0.1</version>
 	<creationDate>2016-07-03</creationDate>
