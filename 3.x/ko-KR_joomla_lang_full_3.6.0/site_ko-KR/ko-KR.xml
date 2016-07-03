@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<metafile version="3.5"  client="site">
+<metafile version="3.6"  client="site">
 	<name>Korean(Republic of Korea)</name>
 	<description>ko-KR site language</description>
-	<version>3.5.2.1</version>
-	<creationDate>2016-05-01</creationDate>
+	<version>3.6.0.1</version>
+	<creationDate>2016-07-03</creationDate>
 	<author>Korean Translation Team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<authorUrl>http://joomla.ecfirm.net/</authorUrl>
