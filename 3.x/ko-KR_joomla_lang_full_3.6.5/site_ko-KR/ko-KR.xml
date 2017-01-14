@@ -2,12 +2,12 @@
 <metafile version="3.6"  client="site">
 	<name>Korean(Republic of Korea)</name>
 	<description>ko-KR site language</description>
-	<version>3.6.5.1</version>
-	<creationDate>2016-12-25</creationDate>
+	<version>3.6.5.2</version>
+	<creationDate>2017-01-29</creationDate>
 	<author>Korean Translation Team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<authorUrl>http://joomla.ecfirm.net/</authorUrl>
-	<copyright>Copyright (C) 2011 - 2016 Korean Translation Team and 2005 - 2016 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2011 - 2017 Korean Translation Team and 2005 - 2017 Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description><![CDATA[ko-KR site language]]></description>
 	<metadata>
