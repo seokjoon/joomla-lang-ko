@@ -2,8 +2,8 @@
 <extension version="3.7" client="site" type="language" method="upgrade">
 	<name>Korean(Republic of Korea)</name>
 	<tag>ko-KR</tag>
-	<version>3.7.0.1</version>
-	<creationDate>2017-05-14</creationDate>
+	<version>3.7.1.1</version>
+	<creationDate>2017-05-21</creationDate>
 	<author>Korean Translation Team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<authorUrl>http://joomla.ecfirm.net/</authorUrl>
@@ -11,7 +11,6 @@
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>ko-KR site language</description>
 	<files>
-		<filename>index.html</filename>
 		<filename>ko-KR.com_ajax.ini</filename>
 		<filename>ko-KR.com_config.ini</filename>
 		<filename>ko-KR.com_contact.ini</filename>
@@ -97,4 +96,5 @@
 		<filename file="meta">ko-KR.xml</filename>
 		<filename file="meta">install.xml</filename>
 	</files>
+	<params />
 </extension>
