@@ -2,8 +2,8 @@
 <extension version="3.7" client="site" type="language" method="upgrade">
 	<name>Korean(Republic of Korea)</name>
 	<tag>ko-KR</tag>
-	<version>3.7.1.2</version>
-	<creationDate>2017-05-22</creationDate>
+	<version>3.7.2.1</version>
+	<creationDate>2017-06-04</creationDate>
 	<author>Korean Translation Team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<authorUrl>http://joomla.ecfirm.net/</authorUrl>
