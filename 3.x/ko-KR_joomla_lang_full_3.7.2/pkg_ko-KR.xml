@@ -2,8 +2,8 @@
 <extension type="package" version="3.7" method="upgrade">
 	<name>Korean (ko-KR) Language Pack</name>
 	<packagename>ko-KR</packagename>
-	<version>3.7.2.1</version>
-	<creationDate>2017-06-04</creationDate>
+	<version>3.7.2.3</version>
+	<creationDate>2017-06-08</creationDate>
 	<author>Korean translation team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<url>http://joomla.ecfirm.net/</url>
