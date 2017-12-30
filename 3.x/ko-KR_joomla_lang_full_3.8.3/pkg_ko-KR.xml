@@ -2,14 +2,14 @@
 <extension type="package" version="3.8" method="upgrade">
 	<name>Korean (ko-KR) Language Pack</name>
 	<packagename>ko-KR</packagename>
-	<version>3.8.1.1</version>
-	<creationDate>2017-10-09</creationDate>
+	<version>3.8.3.1</version>
+	<creationDate>2017-12-30</creationDate>
 	<author>Korean translation team</author>
 	<authorEmail>ko-kr_joomla@kilmeny.net</authorEmail>
 	<url>http://joomla.ecfirm.net/</url>
 	<packager>Korean translation team</packager>
 	<packagerurl>http://joomla.ecfirm.net/</packagerurl>
-	<description>3.8.1 Joomla Korean Language Package</description>
+	<description>3.8.3 Joomla Korean Language Package</description>
 	<files>
         <file type="language" client="administrator" id="ko-KR">admin_ko-KR.zip</file>
         <file type="language" client="site" id="ko-KR">site_ko-KR.zip</file>
